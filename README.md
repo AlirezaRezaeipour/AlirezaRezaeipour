@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Surveying Engineer & Developer
+# 👋 Profile
 
 🎓 **B.Sc. in Surveying Engineering**  
 💻 **Python & MATLAB Developer**  
@@ -7,48 +7,57 @@
 
 ---
 
-## 🚀 About Me
-I am a Bachelor's graduate in **Surveying Engineering** with strong interests in **programming, geospatial analysis, and applied engineering projects**.  
-I enjoy working on **data-driven**, **technical**, and **research-oriented** problems, especially those related to surveying, civil engineering, and automation.
+## 🔍 Professional Summary
+Bachelor’s graduate in **Surveying Engineering** with solid experience in **Python and MATLAB programming**, **Android application development**, and **engineering-oriented software tools**.  
+My background combines **geospatial engineering**, **civil engineering fundamentals**, and **programming** to develop practical, data-driven, and research-focused solutions.
 
 ---
 
-## 🧠 Skills & Technologies
+## 🧠 Technical Skills
 
-### 👨‍💻 Programming
-- **Python** (data processing, automation, basic ML)
-- **MATLAB** (engineering analysis, numerical methods, research implementations)
+### Programming & Computing
+- **Python** — data analysis, automation, numerical computing
+- **MATLAB** — engineering analysis, algorithm implementation, research prototyping
 
-### 📱 Mobile Development
-- **Android App Development**
-- UI design & basic backend logic
+### Mobile Development
+- **Android Application Development**
+- UI/UX implementation and application logic
 
-### 🏗️ Engineering Tools
+### Engineering & Design
 - **AutoCAD**
-- Civil & Surveying-related software
-- Technical drawing & mapping concepts
+- Civil engineering drawings and surveying workflows
+- Technical documentation and modeling
 
 ---
 
-## 🌍 Areas of Interest
-- Surveying & Geospatial Engineering  
-- Data Analysis & Modeling  
-- Engineering Applications of Programming  
-- Research-oriented projects  
-- Academic & applied problem solving  
+## 📱 Application Focus & Interests
+I am particularly interested in designing and developing applications in the following domains:
+- **Surveying & Geospatial Applications**
+- **Engineering Calculation & Analysis Tools**
+- **Civil Engineering Utilities**
+- **Data Analysis & Visualization Systems**
+- **Technical & Productivity Software**
 
 ---
 
-## 📂 Projects
-This GitHub contains:
-- Engineering-related programming projects
-- MATLAB implementations for technical problems
-- Python scripts for data analysis and automation
-- Android applications for practical use cases
+## 📂 Projects & Repositories
+This GitHub profile includes:
+- Engineering-oriented programming projects
+- MATLAB-based implementations for technical and research problems
+- Python scripts for data processing and analytical tasks
+- Android applications developed for practical engineering use cases
 
 ---
 
-## 📫 Contact
-Feel free to explore my repositories and connect with me for collaboration or research-oriented projects.
+## 🎯 Academic & Professional Interests
+- Geospatial and Surveying Engineering  
+- Data-driven Engineering Solutions  
+- Applied Programming in Engineering  
+- Research and Academic Development  
 
-⭐ If you find my work useful, consider giving a star!
+---
+
+## 🤝 Collaboration
+Open to collaboration on **engineering**, **research**, and **software development** projects with academic or practical orientation.
+
+⭐ If you find my work useful, feel free to star the repositories.
