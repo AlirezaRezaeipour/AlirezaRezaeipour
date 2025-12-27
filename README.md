@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## My Favorite Tech
+![Python](https://img.shields.io/badge/Code-Python-blue)
+![Mathlab](https://img.shields.io/badge/Code-Mathlab)
+![Civil3D](https://img.shields.io/badge/Civil3D)
 <!--
 **AlirezaRezaeipour/AlirezaRezaeipour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
