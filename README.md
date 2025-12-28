@@ -1,63 +1,60 @@
-# 👋 Profile
+# 👋 Hi! I'm Alireza Rezaeipour
 
-🎓 **B.Sc. in Surveying Engineering**  
-💻 **Python & MATLAB Developer**  
-📱 **Android Application Developer**  
-🏗️ **Civil Engineering & AutoCAD**
+**Surveying Engineer** from **University of Zanjan** | Programmer in **python 🐍, matlab 💻 & android studio 📱**
 
 ---
 
-## 🔍 Professional Summary
-Bachelor’s graduate in **Surveying Engineering** with solid experience in **Python and MATLAB programming**, **Android application development**, and **engineering-oriented software tools**.  
-My background combines **geospatial engineering**, **civil engineering fundamentals**, and **programming** to develop practical, data-driven, and research-focused solutions.
+## 🚀 About Me
+
+- Graduate in **Surveying Engineering** with a passion for programming and data science  
+- Experienced in **python** for data processing & AI projects  
+- Skilled in **matlab** for photogrammetry and engineering data analysis  
+- Developing Android applications using **android studio**  
+- Always learning and sharing projects on **GitHub**  
 
 ---
 
-## 🧠 Technical Skills
+## 🛠️ Skills
 
-### Programming & Computing
-- **Python** — data analysis, automation, numerical computing
-- **MATLAB** — engineering analysis, algorithm implementation, research prototyping
-
-### Mobile Development
-- **Android Application Development**
-- UI/UX implementation and application logic
-
-### Engineering & Design
-- **AutoCAD**
-- Civil engineering drawings and surveying workflows
-- Technical documentation and modeling
+| Language/Tool | Level |
+|---------------|-------|
+| <span style="color:#3572A5">python 🐍</span> | ⭐⭐⭐⭐⭐ |
+| <span style="color:#b07219">matlab 💻</span> | ⭐⭐⭐⭐⭐ |
+| <span style="color:#3DDC84">android studio 📱</span> | ⭐⭐⭐⭐ |
+| <span style="color:#F05032">git & github</span> | ⭐⭐⭐⭐ |
+| <span style="color:#FF6F61">data analysis 📊</span> | ⭐⭐⭐⭐ |
+| <span style="color:#4CAF50">gis & mapping 🗺️</span> | ⭐⭐⭐⭐ |
 
 ---
 
-## 📱 Application Focus & Interests
-I am particularly interested in designing and developing applications in the following domains:
-- **Surveying & Geospatial Applications**
-- **Engineering Calculation & Analysis Tools**
-- **Civil Engineering Utilities**
-- **Data Analysis & Visualization Systems**
-- **Technical & Productivity Software**
+## 📈 GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlirezaRezaeipour&show_icons=true&count_private=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaRezaeipour&layout=compact&theme=radical)  
+
+![Contribution Graph](https://ghchart.rshah.org/AlirezaRezaeipour)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=AlirezaRezaeipour)  
 
 ---
 
-## 📂 Projects & Repositories
-This GitHub profile includes:
-- Engineering-oriented programming projects
-- MATLAB-based implementations for technical and research problems
-- Python scripts for data processing and analytical tasks
-- Android applications developed for practical engineering use cases
+## ⚡ Featured Projects
+
+| Project | Description | Status |
+|---------|------------|--------|
+| **Photogrammetry with matlab** | Processing & analyzing surveying data | 🔥 Active |
+| **Android GIS App** | Display GIS data for driving speed on mobile | 🟢 In progress |
+| **Data Analysis with python** | AI & data mining | 🟢 In progress |
 
 ---
 
-## 🎯 Academic & Professional Interests
-- Geospatial and Surveying Engineering  
-- Data-driven Engineering Solutions  
-- Applied Programming in Engineering  
-- Research and Academic Development  
+## 📫 Contact Me
+
+- Email: `Alirza.rzpt@gmail.com`  
+- Instagram: [Instagram](https://www.instagram.com/in/AlirzaRezaeipour/)  
+- GitHub: [GitHub](https://github.com/AlirezaRezaeipour)
 
 ---
 
-## 🤝 Collaboration
-Open to collaboration on **engineering**, **research**, and **software development** projects with academic or practical orientation.
-
-⭐ If you find my work useful, feel free to star the repositories.
+> "Coding is an art, and GitHub is our canvas!" 🎨💻
